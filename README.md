@@ -8,5 +8,6 @@ The mock-up can be seen [here](https://content.codecademy.com/courses/freelance-
 
 - [x] Review provided html file
 - [x] Review provided css file
-- [ ] Refactor required html code
-- [ ] Refactor required css code
+- [ ] Refactor `<header>` section
+- [ ] Refactor `sign-up-section`
+- [ ] Refactor `features-section`
